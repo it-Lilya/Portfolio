@@ -1,0 +1,9 @@
+.contain {
+    width: 950px;
+    padding: 40px;
+    margin: auto;
+  }
+  
+.date {
+    column-count: 3;
+}

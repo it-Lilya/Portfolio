@@ -1,0 +1,20 @@
+.toolbar {
+   margin-bottom: 20px; 
+}
+
+button {
+  margin-right: 8px;
+  padding: 10px 15px;
+  background-color: #fff;
+  border: solid silver;
+}
+
+button:hover {
+  background-color: silver;
+  color: #fff;
+}
+
+.active {
+  background-color: silver;
+  color: #fff;
+}
